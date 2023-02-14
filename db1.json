@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Randamoozham",
+        "author": "M T vasudevan Nair",
+        "image":"https://upload.wikimedia.org/wikipedia/en/a/af/Randamoozham_30th_edition_cover.jpg",
+        "category": "malayalam"
+    },
+    {
+        "id": 2,
+        "title": "Aadujeevitham",
+        "author": "Benyamin",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1283726170i/9242236.jpg",
+        "category": "malayalam"
+    },
+    {
+        "id": 3,
+        "title": "Arachar",
+        "author": "K R Meera",
+        "image":"https://letusread.letusgroupofinitiatives.in/images/37/9788126439362.jpg",
+        "category": "malayalam"
+    },
+    {
+        "id": 4,
+        "title": "Ente Katha",
+        "author": "Madhavikkutty",
+        "image": "https://m.media-amazon.com/images/I/41RD9CKSA7L.jpg",
+        "category":"malayalam"
+    },
+    {
+        "id": 5,
+        "title": "premalekanam",
+        "author": "Viakkom Muhammed Basheer",
+        "image": "http://www.tdbookstore.com/image/cache/catalog/products/Sal/81vXvTYUPvL-575x575.jpg",
+        "category": "malayalam"
+    },
+    {
+        "id": 6,
+        "title": "Naalukett",
+        "author": "M T vasudevan Nair",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK82dNbYWKgHQscfyQAdel4h6iId7_ABYrKT5jqC58yxk3oBus",
+        "category": "malayalam"
+    },
+    {
+        "id": 7,
+        "title":"Mathilukal",
+        "author": "Viakkom Muhammed Basheer",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/Mathilukalbook.jpg",
+        "category": "malayalam"
+    },
+    {
+        "id": 8,
+        "title": "Balyakalasakhi",
+        "author": "Viakkom Muhammed Basheer",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Balyakalasakhibook.jpg/220px-Balyakalasakhibook.jpg",
+        "category": "malayalam"
+    },
+    {
+        "id": 9,
+        "title": "Oru Deshathinte katha",
+        "author": "S K Pottakkad",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328072891l/11162896.jpg",
+        "category": "malayalam"
+    },
+    {
+        "id": 10,
+        "title": "Janmadhinam",
+        "author": "Viakkom Muhammed Basheer",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496597628l/35299584._SY475_.jpg",
+        "category": "malayalam"
+    }
+    
+]
+  

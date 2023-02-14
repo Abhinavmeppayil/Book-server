@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "price": 1200,
+        "image":"https://cdn.shopify.com/s/files/1/0292/2958/0367/products/Untitleddesign_35_700x700.png?v=1673007499",
+        "category": "combo"
+    },
+    {
+        "id": 2,
+        "price": 2000,
+        "image":"https://qph.cf2.quoracdn.net/main-qimg-05aa6c2999cfbf3b227e5cc7bd5ba6a8-lq",
+        "category": "combo"
+    },
+    {
+        "id": 3,
+        "price": 1000,
+        "image":"https://cor-cdn-static.bibliocommons.com/list_jacket_covers/live/1729205159.png",
+        "category": "combo"
+    },
+    {
+        "id": 4,
+        "price": 2500,
+        "image": "https://www.madrasshoppe.com/219336-large_default/ikigai-atomic-habits-psychology-of-money-and-the-subtle-art-of-not-giving-a-fck-combo-books.jpg",
+        "category":"combo"
+    },
+    {
+        "id": 5,
+        "price": 900,
+        "image": "https://n3.sdlcdn.com/imgs/k/k/t/Best-combo-Rich-dad-poor-SDL341982954-1-7434f.jpg",
+        "category": "combo"
+    },
+    {
+        "id": 6,
+        "price": 3000,
+        "image": "https://rukminim1.flixcart.com/image/416/416/ktketu80/regionalbooks/h/z/j/mt-books-combo-manju-randamoozham-malayalam-books-combo-original-imag6vuwdzycqskh.jpeg?q=70",
+        "category": "combo"
+    },
+    {
+        "id": 7,
+        "price":750,
+        "image": "https://rukminim1.flixcart.com/image/612/612/kcf4lu80/regionalbooks/4/b/c/basheer-mathilukal-uppooppa-premalekhanam-original-imaftjmqfzs6dmzz.jpeg?q=70",
+        "category": "combo"
+    },
+    {
+        "id": 8,
+        "price": 2500,
+        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/regionalbooks/x/x/s/mullapoo-niramulla-pakalukal-nisabda-sancharangal-benyamin-original-imagjg4ffgzkwb2p.jpeg?q=70",
+        "category": "combo"
+    },
+    {
+        "id": 9,
+        "price": 1250,
+        "image": "https://5.imimg.com/data5/ECOM/Default/2022/7/MC/NA/KM/87605443/20201211-133403-0000-500x500.png",
+        "category": "combo"
+    },
+    {
+        "id": 10,
+        "price": 1200,
+        "image": "https://www.madrasshoppe.com/219486-large_default/books-combo-of-4-think-like-a-monk-do-epic-shit-atomic-habits-subtle-art-of-not-giving-af.jpg",
+        "category": "combo"
+    },
+    
+    {
+        "id": 11,
+        "price": 2800,
+        "image": "https://images.meesho.com/images/products/94054739/nifs2_512.jpg",
+        "category": "combo"
+    },
+    
+    {
+        "id": 12,
+        "price": 3000,
+        "image": "https://images.meesho.com/images/products/122678625/9pv4m_512.jpg",
+        "category": "combo"
+    }
+    
+]
+  
